@@ -4,9 +4,10 @@
 Este projeto é uma solução completa em Java, desenvolvida como 
 resposta ao **Desafio da Atividade 2** (Contexto RH e Folha de Pagamento)
 que exigia a aplicação prática dos conceitos de **Programação Orientada
-a Objetos (POO)**, **Herança**, e **Polimorfismo**.<br><br>
+a Objetos (POO)**, **Herança**, e **Polimorfismo**.
+
 O sistema permite o cadastro e gerenciamento de dois tipos de 
-funcionários — **Assalariados** e **Horistas** — em uma única lista 
+funcionários - **Assalariados** e **Horistas** - em uma única lista 
 polimórfica, aplicando cálculos de pagamento e aumentos gerais de 
 forma dinâmica e robusta.
 ---
