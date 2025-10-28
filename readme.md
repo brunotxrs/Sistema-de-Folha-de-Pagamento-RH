@@ -7,9 +7,10 @@ que exigia a aplicação prática dos conceitos de **Programação Orientada
 a Objetos (POO)**, **Herança**, e **Polimorfismo**.
 
 O sistema permite o cadastro e gerenciamento de dois tipos de 
-funcionários - **Assalariados** e **Horistas** - em uma única lista 
-polimórfica, aplicando cálculos de pagamento e aumentos gerais de 
+funcionários, **Assalariados** e **Horistas**  em uma única lista 
+polimórfica, aplicando cálculo de pagamento e aumentos gerais de 
 forma dinâmica e robusta.
+
 ---
 
 ## ✨ Principais Funcionalidades e Conceitos Aplicados
