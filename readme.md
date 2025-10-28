@@ -1,4 +1,4 @@
-# 📄 README.md - Sistema de Folha de Pagamento RH
+# 📄 Sistema de Folha de Pagamento RH
 
 ## 🚀 Visão Geral do Projeto
 Este projeto é uma solução completa em Java, desenvolvida como 
